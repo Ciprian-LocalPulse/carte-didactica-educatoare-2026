@@ -1,32 +1,32 @@
-# 📚 Carte Didactică pentru Educatoare 2026
+# 📚 Didactic Book for Teachers 2026
 
-Acesta este codul sursă pentru landing page-ul de prezentare a proiectului **"Carte Didactică pentru Educatoare 2026"**. Pagina este concepută pentru a oferi un aspect elegant, academic și interactiv cadrelor didactice interesate de literatura română pentru copii.
+This is the source code for the landing page for the presentation of the project **"Didactic Book for Teachers 2026"**. The page is designed to provide an elegant, academic and interactive look for teachers interested in Romanian children's literature.
 
-## ✨ Caracteristici
-- **Design Premium:** Interfață modernă cu accente aurii și fundal navy (bleumarin).
-- **Interactivitate:** Efecte de scroll (reveal), numărătoare animată pentru statistici și fundal stelar (canvas).
-- **Optimizat:** Fără diacritice în text pentru compatibilitate maximă și viteză mare de încărcare.
-- **Call to Action:** Integrare directă cu WhatsApp pentru comenzi rapide.
+## ✨ Features
+- **Premium Design:** Modern interface with gold accents and navy background.
+- **Interactivity:** Scroll effects (reveal), animated counter for statistics and star background (canvas).
+- **Optimized:** No diacritics in the text for maximum compatibility and high loading speed.
+- **Call to Action:** Direct integration with WhatsApp for shortcuts.
 
-## 📖 Conținut Prezentat
-Pagina promovează o colecție de 10 opere literare esențiale analizate pedagogic:
-1. *Balada unui greier mic* - G. Topârceanu
-2. *Cățelușul șchiop* - Elena Farago
-3. *Fata babei și fata moșneagului* - Ion Creangă
-4. *Gândăcelul* - Emil Gârleanu
-5. *Greierele și furnica* - La Fontaine
-6. *Iarna pe uliță* - George Coșbuc
-7. *Legenda florii-soarelui* - Călin Gruia
-8. *Povestea lui Harap-Alb* - Ion Creangă
-9. *Prâslea cel voinic și merele de aur* - Petre Ispirescu
-10. *Proverbe Românești* (80+ exemple)
+## 📖 Featured Content
+The page promotes a collection of 10 essential literary works analyzed pedagogically:
+1. *The Ballad of a Little Cricket* - G. Topârceanu
+2. *The Lame Puppy* - Elena Farago
+3. *The Old Woman's Girl and the Old Man's Girl* - Ion Creangă
+4. *The Beetle* - Emil Gârleanu
+5. *The Crickets and the Ant* - La Fontaine
+6. *Winter on the Street* - George Coșbuc
+7. *The Legend of the Sunflower* - Călin Gruia
+8. *The Tale of Harap-Alb* - Ion Creangă
+9. *The Strong Plough and the Golden Apples* - Petre Ispirescu
+10. *Romanian Proverbs* (80+ examples)
 
-## 🛠️ Tehnologii Utilizate
+## 🛠️ Technologies Used
 - **HTML5 / CSS3** (Custom properties, Flexbox, Grid)
 - **Vanilla JavaScript** (Intersection Observer, Canvas API)
 - **Google Fonts** (Playfair Display, Lora, Cinzel)
 
-## 🚀 Instalare și Utilizare
-1. Clonează repozitoriul:
+## 🚀 Installation and Usage
+1. Clone the repository:
    ```bash
    git clone [https://github.com/utilizator/carte-didactica-educatoare-2026.git](https://github.com/utilizator/carte-didactica-educatoare-2026.git)
